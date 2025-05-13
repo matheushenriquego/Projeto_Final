@@ -1,0 +1,11 @@
+Task_Name,Task_Description,Task_Priority,Task_Status,Task_Manager,Task_Colaborators,Task_Type,Task_Recurring,Task_Recurring_Dates,Task_Recurring_Time,Task_Dini,Task_Tini,Task_Dend,Task_Tend,Task_Arquive,Task_Collaborators
+name,asdasdasd,2,On_going,matheus,"lola, matheus",Recurring,low,20.0,10.0,,,,,,
+new,asfaf,3,On_going,matheus,"jay, matheus",One_Time,,,,20.0,12:30,21.0,12:30,,
+names,isdaasdi,2,On_going,matheus,matheus,Recurring,type 2,10.0,20;40,,,,,arquivo.txt,
+name,,2,On_going,matheus,,Recurring,,,,,,,,,"lola, matheus"
+new2,carai,1,On_going,matheus,matheus,Recurring,més,hoje,12,,,,,no,
+name,,2,On_going,matheus,,Recurring,,,,,,,,,"lola, matheus"
+name,,2,On_going,matheus,,Recurring,,,,,,,,,"lola, matheus"
+novo,loco,1,On_going,matheus,matheus,One_Time,,,,hoje,agora,amanhã,depois,none,
+name,,2,On_going,matheus,,Recurring,,,,,,,,,"lola, matheus"
+test,test,1,On_going,matheus,"test, matheus",Recurring,test,test,test,,,,,test,
